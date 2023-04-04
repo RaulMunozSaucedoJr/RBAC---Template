@@ -1,0 +1,8 @@
+export const Home = "/" || "/Home"
+export const NotFound = "*"
+export const Projects = "/Projects"
+export const Services = "/Services"
+export const Contact = "/Contact"
+export const Login = "/Login"
+export const SignUp = "/SignUp"
+export const RecoverPassword = "/RecoverPassword"
